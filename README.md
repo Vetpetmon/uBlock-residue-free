@@ -9,3 +9,6 @@ Simply import the following url into your filter lists:
 ```
 https://raw.githubusercontent.com/Vetpetmon/uBlock-residue-free/main/residue-clean-up.txt
 ```
+
+## How to help
+Post an issue with a list of new filter rules or which ones to change, or fork this repository and make a PR with your contributions!
