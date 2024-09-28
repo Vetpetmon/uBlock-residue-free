@@ -28,6 +28,10 @@ minecraft-wiki.com
 minecraft-forum.net
 mcpedl.org
 cursefire.com
+! Steam phishing scams found
+elite.xenongames.pro
+xenongames.pro
+
 
 ! This is illgeal and violates copyright laws. Also, the pirate launcher installs spyware and modifies the host file to redirect legitimate sites to sketchy Russian copies. Stay safe out there!
 tlauncher.org
