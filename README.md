@@ -3,6 +3,11 @@ List files for uBlock Origins that aims to clean up the messy &amp; polluted web
 
 This list protects users from sketchy software, phishing, typosquatting attacks, and more.
 
+### DISCLAIMER
+Absolutely do not rely on Chromium-based browsers with any kind of security setup. 
+Chromium browsers intentionally break adblockers and other security addons.
+Pair this with Mozilla-based web browsers like Firefox and Waterfox for a truly protective setup.
+
 ## How to use
 Simply import the following url into your filter lists:
 
