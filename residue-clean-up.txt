@@ -3,49 +3,50 @@ whiteboardfox.com###right-ad-area
 
 ! Blocks websites that lead to unauthorized uploads of Minecraft JE mods/resourcepacks/shaderpacks, which may be laced with malware
 ! Most were found thanks to the VPML legal team
-9minecraft.net
-minecraft-club.ru
-shadersmod.net
-modsminecraft.com
-mod-for-minecraft.net
-mcmoddatabase.com
+||9minecraft.net
+||minecraft-club.ru
+||shadersmod.net
+||modsminecraft.com
+||mod-for-minecraft.net
+||mcmoddatabase.com
 
 ! Phishing/typosquat links, oh no
-planetaminecraft.com
-planet-minecraft.ru
-planet-mc.net
-planetlemoncraft.com
-planetminecraftmods.com
-planetmods.net
-optifine.es
-optifine.fr
-optifine.info
-optifine.online
-optifine.vip
-optifined.com
-nexus-mods.com
-minecraft-wiki.com
-minecraft-forum.net
-mcpedl.org
-cursefire.com
+||planetaminecraft.com
+||planet-minecraft.ru
+||planet-mc.net
+||planetlemoncraft.com
+||planetminecraftmods.com
+||planetmods.net
+||optifine.es
+||optifine.fr
+||optifine.info
+||optifine.online
+||optifine.vip
+||optifined.com
+||nexus-mods.com
+||minecraft-wiki.com
+||minecraft-forum.net
+||mcpedl.org
+||cursefire.com
+
 ! Steam phishing scams found
-elite.xenongames.pro
-xenongames.pro
+||elite.xenongames.pro
+||xenongames.pro
 
 
 ! This is illgeal and violates copyright laws. Also, the pirate launcher installs spyware and modifies the host file to redirect legitimate sites to sketchy Russian copies. Stay safe out there!
-tlauncher.org
+||tlauncher.org
 
 ! Piracy/cracked game(s) alert, piracy always runs the risk of getting malware
-crystal-launcher.net
-onlineplayminecraft.com
-minecraftforfreenow.net
-minecraftdl.com
-hackphoenix.com
+||crystal-launcher.net
+||onlineplayminecraft.com
+||minecraftforfreenow.net
+||minecraftdl.com
+||hackphoenix.com
 
 ! Phishing links I encountered on my honeypot phone address:
 ! US GOVERNMENT IMPERSONATORS:
 ! Explanation: https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams
-us-usps-lp.top
-us-usp.top
+||us-usps-lp.top
+||us-usp.top
 
