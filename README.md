@@ -16,7 +16,8 @@ https://raw.githubusercontent.com/Vetpetmon/uBlock-residue-free/main/residue-cle
 ```
 ### Experimental, not recommended
 If you do not care for performance, you may use the regex list to block phising sites instead.
-It is, in theory, far more secure. Right now, this does not seem to work.
+This may not catch everything, and might block innocent sites.
+It is, in theory, far more secure. Only a few websites (especially popular ones) are supported.
 ```
 https://raw.githubusercontent.com/Vetpetmon/uBlock-residue-free/main/regex-list.txt
 ```
