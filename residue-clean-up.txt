@@ -44,6 +44,9 @@ whiteboardfox.com###right-ad-area
 ||minecraftdl.com
 ||hackphoenix.com
 
+! Adverts reported as being annoying
+||yt.topiacube.org
+
 ! Phishing links I encountered on my honeypot phone address:
 ! US GOVERNMENT IMPERSONATORS:
 ! Explanation: https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams
