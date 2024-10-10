@@ -1,5 +1,5 @@
 ! REGEX-TURBO BLOCKER
-! Blocks typosqquat/phishing sites using the power of regex
+! Blocks typosquat/phishing sites using the power of regex
 ! Guaranteed to accidentally hit a legitimate site. Oh well.
 ! DISCLAIMER:
 ! May not be good for performance. This trades performance 
@@ -10,4 +10,4 @@
 ! License: Unlicense
 ! ----------------------------------------------------------
 ! Block fake optifines
-||/(?:https?:\/\/)?(optifine)+(?!\.net)/
+||/(?:https?:\/\/)?(optifine)+(?!\.net)/$document
