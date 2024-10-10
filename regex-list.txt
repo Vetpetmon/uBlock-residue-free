@@ -1,0 +1,13 @@
+! REGEX-TURBO BLOCKER
+! Blocks typosqquat/phishing sites using the power of regex
+! Guaranteed to accidentally hit a legitimate site. Oh well.
+! DISCLAIMER:
+! May not be good for performance. This trades performance 
+! for security. Considering the nature of the internet, it
+! impossible to manually block domains/hosts. This uses 
+! regex to block bad sites nobody knew existed.
+! Author: Modrome
+! License: Unlicense
+! ----------------------------------------------------------
+! Block fake optifines
+/(optifine)+(?!\.net)/
