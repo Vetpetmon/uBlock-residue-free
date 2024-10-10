@@ -10,4 +10,4 @@
 ! License: Unlicense
 ! ----------------------------------------------------------
 ! Block fake optifines
-||/(optifine)+(?!\.net)/
+||/(?:https?:\/\/)?(optifine)+(?!\.net)/
