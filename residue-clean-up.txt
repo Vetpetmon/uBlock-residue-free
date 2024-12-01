@@ -53,3 +53,6 @@ whiteboardfox.com###right-ad-area
 ||us-usps-lp.top
 ||us-usp.top
 
+! Impersonated banks
+||han.gl
+
