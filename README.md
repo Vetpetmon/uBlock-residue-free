@@ -5,8 +5,8 @@ This list protects users from sketchy software, phishing, typosquatting attacks,
 
 ### DISCLAIMER
 Absolutely do not rely on Chromium-based browsers with any kind of security setup. 
-Chromium browsers intentionally break adblockers and other security addons.
-Pair this with Mozilla-based web browsers like Firefox and Waterfox for a truly protective setup.
+Chromium browsers are well known to intentionally break adblockers and other security addons.
+Pair this with Mozilla-based web browsers like Firefox and Waterfox for true protection.
 
 ## How to use
 Simply import the following url into your filter lists:
@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/Vetpetmon/uBlock-residue-free/main/residue-cle
 ```
 ### Experimental, not recommended
 If you do not care for performance, you may use the regex list to block phising sites instead.
+This list is set up to block sites nobody knows about about, through detecting typosquats.
 This may not catch everything, and might block innocent sites.
 It is, in theory, far more secure. Only a few websites (especially popular ones) are supported.
 ```
