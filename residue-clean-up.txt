@@ -66,6 +66,8 @@ whiteboardfox.com###right-ad-area
 ||sbs^
 ||bond^
 ||lol^
+||info^
+||support^
 
 ! Impersonated banks
 ||han.gl
