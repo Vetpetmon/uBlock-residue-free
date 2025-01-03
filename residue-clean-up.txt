@@ -52,6 +52,8 @@ whiteboardfox.com###right-ad-area
 ! Explanation: https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams
 ||us-usps-lp.top
 ||us-usp.top
+||deliveryqtax.top
+||*.top
 
 ! Impersonated banks
 ||han.gl
