@@ -60,6 +60,12 @@ whiteboardfox.com###right-ad-area
 ||ru^
 ||sx^
 ||pw^
+||zip^
+||mov^
+||xyz^
+||sbs^
+||bond^
+||lol^
 
 ! Impersonated banks
 ||han.gl
