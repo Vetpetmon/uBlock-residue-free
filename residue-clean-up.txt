@@ -53,7 +53,13 @@ whiteboardfox.com###right-ad-area
 ||us-usps-lp.top
 ||us-usp.top
 ||deliveryqtax.top
-||*.top
+
+! TLDs used for scams and phishing. I do not care if there's a 1% chance the TLD is used legitimately. That's on the company's fault for not buying a .com or other difficult-to-abuse TLD.
+||top^
+||cc^
+||ru^
+||sx^
+||pw^
 
 ! Impersonated banks
 ||han.gl
