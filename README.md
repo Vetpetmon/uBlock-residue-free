@@ -1,5 +1,5 @@
 # uBlock-residue-free
-List files for uBlock Origins that aims to clean up the messy &amp; polluted web
+List files for uBlock Origin that aims to clean up the messy &amp; polluted web
 
 This list protects users from sketchy software, phishing, typosquatting attacks, and more.
 
