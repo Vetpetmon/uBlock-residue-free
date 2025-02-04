@@ -14,6 +14,11 @@ Simply import the following url into your filter lists:
 ```
 https://raw.githubusercontent.com/Vetpetmon/uBlock-residue-free/main/residue-clean-up.txt
 ```
+### For Further Protection
+This sub-list blocks high-risk TLDs known for doing nothing about fraud, phishing, and scam reports. Examples include `.top` websites, `.ru` sites, and `.zip` TLDs.
+```
+https://raw.githubusercontent.com/Vetpetmon/uBlock-residue-free/refs/heads/main/high_risk_tld_blocks.txt
+```
 ### Experimental, not recommended
 If you do not care for performance, you may use the regex list to block phising sites instead.
 This list is set up to block sites nobody knows about about, through detecting typosquats.
