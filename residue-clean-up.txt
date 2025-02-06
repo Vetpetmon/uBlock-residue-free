@@ -57,3 +57,6 @@ whiteboardfox.com###right-ad-area
 ! Impersonated banks
 ||han.gl
 
+! Known to impersonate Toll Road servies
+||dr.com
+
