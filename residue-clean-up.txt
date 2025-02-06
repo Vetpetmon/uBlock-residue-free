@@ -46,6 +46,7 @@ whiteboardfox.com###right-ad-area
 
 ! Adverts reported as being annoying
 ||yt.topiacube.org
+||goroncity.com
 
 ! Phishing links I encountered on my honeypot phone address:
 ! US GOVERNMENT IMPERSONATORS:
