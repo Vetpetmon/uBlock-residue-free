@@ -19,6 +19,8 @@ This sub-list blocks high-risk TLDs known for doing nothing about fraud, phishin
 ```
 https://raw.githubusercontent.com/Vetpetmon/uBlock-residue-free/refs/heads/main/high_risk_tld_blocks.txt
 ```
+(A similar TLD blocklist is being used to combat spam on the SNAZpedia!)
+
 ### Experimental, not recommended
 If you do not care for performance, you may use the regex list to block phising sites instead.
 This list is set up to block sites nobody knows about about, through detecting typosquats.
@@ -27,7 +29,6 @@ It is, in theory, far more secure. Only a few websites (especially popular ones)
 ```
 https://raw.githubusercontent.com/Vetpetmon/uBlock-residue-free/main/regex-list.txt
 ```
-(A similar TLD blocklist is being used to combat spam on the SNAZpedia!)
 
 ## How to help
 Post an issue with a list of new filter rules or which ones to change, or fork this repository and make a PR with your contributions!
